@@ -14,7 +14,15 @@
 #                                       |_|                                         |_|    
 #                                                                    by: Ilyasa            
 
-
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 cdn.msdwnld.com
+0.0.0.0 cdn.mypcbackup.com
+0.0.0.0 inno.bisrv.com
+0.0.0.0 installer.betterinstaller.com
+0.0.0.0 nsis.bisrv.com
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 127.0.0.1  localhost
 127.0.0.1 0ce3c-1fd43.api.pushwoosh.com
 127.0.0.1 100016075.collect.igodigital.com
