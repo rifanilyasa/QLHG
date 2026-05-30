@@ -1,0 +1,43 @@
+#                        ____                          _           _   _  __               
+#                       / __ \                        | |         | | (_)/ _|              
+#                      | |  | |_   _  ___  ___ _ __   | |     __ _| |_ _| |_ __ _          
+#                      | |  | | | | |/ _ \/ _ \ '_ \  | |    / _` | __| |  _/ _` |         
+#                      | |__| | |_| |  __/  __/ | | | | |___| (_| | |_| | || (_| |         
+#                       \___\_\\__,_|\___|\___|_| |_| |______\__,_|\__|_|_| \__,_|         
+#                       _    _                 _ _        _    _____                       
+#                      | |  | |               (_) |      | |  / ____|                      
+#                      | |__| | ___  ___ _ __  _| |_ __ _| | | |  __ _ __ ___  _   _ _ __  
+#                      |  __  |/ _ \/ __| '_ \| | __/ _` | | | | |_ | '__/ _ \| | | | '_ \ 
+#                      | |  | | (_) \__ \ |_) | | || (_| | | | |__| | | | (_) | |_| | |_) |
+#                      |_|  |_|\___/|___/ .__/|_|\__\__,_|_|  \_____|_|  \___/ \__,_| .__/ 
+#                                       | |                                         | |    
+#                                       |_|                                         |_|    
+#                                                                    by: Ilyasa            
+
+# --- Domain Utama & Web ---
+instagram.com
+www.instagram.com
+m.instagram.com
+i.instagram.com
+l.instagram.com
+cdninstagram.com
+
+# --- Infrastruktur Media & Gambar (CDN) ---
+cdninstagram.com
+scontent.cdninstagram.com
+static.cdninstagram.com
+scontent-sin.cdninstagram.com
+scontent.fsub2-3.fna.fbcdn.net
+
+# --- Aset Statis & Script Layout ---
+ig.me
+igimage.biz
+igshopping.com
+igstatic.com
+
+# --- Domain Pelacak & Telemetry Internal ---
+graph.instagram.com
+api.instagram.com
+b.i.instagram.com
+logging.instagram.com
+mon.instagram.com
