@@ -41,3 +41,17 @@ api.instagram.com
 b.i.instagram.com
 logging.instagram.com
 mon.instagram.com
+
+# --- Tambahan Domain Core API & Otentikasi Seluler ---
+i.instagram.com
+b.i.instagram.com
+graph.instagram.com
+
+# --- Infrastruktur Threads (Sosmed Baru Instagram) ---
+threads.net
+www.threads.net
+
+# --- Domain CDN Cadangan & Regional Facebook (FNA) ---
+fna.fbcdn.net
+fbcdn.net
+fbcdn.com
