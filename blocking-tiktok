@@ -104,3 +104,18 @@ tiktokcdn-us.com.akamaized.net
 tiktokstaticb.com.edgesuite.net
 tiktok.com.bytewlb.akadns.net
 tiktokv.com.cdn.cloudflare.net
+# --- Domain Core API & Otentikasi Baru (Sering Lolos) ---
+tiktokapi.com
+snssdk.com
+amemv.com
+amemv.org
+
+# --- Infrastruktur Log, Analytics, & DNS Over HTTPS (DoH) Internal ---
+byteorg.com
+bytegoofy.com
+bytetos.com
+ttwstatic.com
+
+# --- Domain Khusus TikTok Shop / Merchant ---
+tiktokshop.com
+www.tiktokshop.com
