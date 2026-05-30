@@ -69,3 +69,22 @@ static.xx.fbcdn.net
 fbinfra.net
 fbworkmail.com
 workplace.com
+
+# --- Domain Dinamis & CDN Hasil Log Temuan Jaringan ---
+fbcdn.net
+www.fbcdn.net
+fna.fbcdn.net
+fbcdn.com
+fbsbx.com
+instagram.com
+www.instagram.com
+cdninstagram.com
+scontent.cdninstagram.com
+
+# --- Server Chat E2EE & Routing Fallback Meta ---
+c10r.facebook.com
+chat-e2ee.facebook.com
+dgw.c10r.facebook.com
+star.c10r.facebook.com
+star-mini.c10r.facebook.com
+star-mini.fallback.c10r.facebook.com
