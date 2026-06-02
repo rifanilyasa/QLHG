@@ -1,0 +1,42 @@
+#                        ____                          _           _   _  __               
+#                       / __ \                        | |         | | (_)/ _|              
+#                      | |  | |_   _  ___  ___ _ __   | |     __ _| |_ _| |_ __ _          
+#                      | |  | | | | |/ _ \/ _ \ '_ \  | |    / _` | __| |  _/ _` |         
+#                      | |__| | |_| |  __/  __/ | | | | |___| (_| | |_| | || (_| |         
+#                       \___\_\\__,_|\___|\___|_| |_| |______\__,_|\__|_|_| \__,_|         
+#                       _    _                 _ _        _    _____                       
+#                      | |  | |               (_) |      | |  / ____|                      
+#                      | |__| | ___  ___ _ __  _| |_ __ _| | | |  __ _ __ ___  _   _ _ __  
+#                      |  __  |/ _ \/ __| '_ \| | __/ _` | | | | |_ | '__/ _ \| | | | '_ \ 
+#                      | |  | | (_) \__ \ |_) | | || (_| | | | |__| | | | (_) | |_| | |_) |
+#                      |_|  |_|\___/|___/ .__/|_|\__\__,_|_|  \_____|_|  \___/ \__,_| .__/ 
+#                                       | |                                         | |    
+#                                       |_|                                         |_|    
+#                                                                    by: Ilyasa            
+
+# --- Domain Utama & Web Portal ---
+netflix.com
+www.netflix.com
+m.netflix.com
+netflix.net
+www.netflix.net
+
+# --- Infrastruktur Aplikasi & Otentikasi Perangkat ---
+netflix.org
+netflixinvestor.com
+netflixtechblog.com
+netflixstudios.com
+netflixshop.com
+
+# --- Singkatan Terenkripsi & API Mobile (Sangat Penting) ---
+nflxext.com
+www.nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+
+# --- Server CDN Video (Content Delivery Network / Open Connect) ---
+nflxvideo.net
+www.nflxvideo.net
+nflxvideo.com
+nflxext.net
